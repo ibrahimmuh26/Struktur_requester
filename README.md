@@ -136,6 +136,8 @@ GROUP BY
 ORDER BY 
     tahun, bulan, Jumlah_Permintaan DESC;
 ```
+Query ini bertujuan untuk menghasilkan laporan yang menunjukkan jumlah permintaan yang diajukan oleh setiap pemohon per bulan dan per tahun
+
 2. Laporan Produk Terbanyak
 ```
 SELECT 
@@ -153,6 +155,7 @@ GROUP BY
 ORDER BY 
     Bulan, Jumlah_Diminta DESC;
 ```
+Query ini bertujuan untuk menghasilkan laporan yang menunjukkan jumlah produk yang diminta setiap bulan.
 
   
 
