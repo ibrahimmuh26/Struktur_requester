@@ -5,7 +5,6 @@
 - Bagaimana proses pencarian vendor dan pengelolaan tawaran dari vendor?
 - Apakah ada hubungan antara permintaan dan pengadaan yang dilakukan kepada vendor?
 - Apa kriteria yang digunakan untuk memberikan approval atau menolak permintaan?
-- Apakah Ada batas waktu untuk approval dari pemohon?
 
 # Structure Database
 ![db_requester drawio](https://github.com/ibrahimmuh26/Struktur_requester/assets/73787745/956751dd-9467-47df-90aa-791df2ca2bfa)
