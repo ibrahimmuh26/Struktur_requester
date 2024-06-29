@@ -8,7 +8,7 @@
 - Apakah Ada batas waktu untuk approval dari pemohon?
 
 # Structure Database
-![map](https://github.com/ibrahimmuh26/Struktur_requester/assets/73787745/e9fba420-27ba-4739-a379-330cfec06e5a)
+![db_requester drawio](https://github.com/ibrahimmuh26/Struktur_requester/assets/73787745/956751dd-9467-47df-90aa-791df2ca2bfa)
 
 1. Tabel employee
 ```   
